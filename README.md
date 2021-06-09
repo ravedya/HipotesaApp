@@ -114,22 +114,24 @@ We recommend you to install it on Android devices or Android emulators with the 
 
 The application have four activity inside including splash screen, home activity, main activity, and the prediction result activity. Below are shown activity in order.
 
-<p align="center">
-    <img src="./images/screenshot2">
+<p align="center" style="padding-top: 5px">
+  <a href="#images/open.jpeg">
+    <img src="images/open.jpeg" alt="Logo" width="20%" height="100%">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#images/menu.jpeg">
+    <img src="images/menu.jpeg" alt="Logo" width="20%" height="100%" >
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#images/inputs.jpeg">
+    <img src="images/inputs.jpeg" alt="Logo" width="20%" height="100%" >
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="#images/outputs.jpeg">
+    <img src="images/outputs.jpeg" alt="Logo" width="20%" height="100%" >
+  </a>
 </p>
 
-
-<p align="center">
-    <img src="./images/screenshot3">
-</p>
-
-<p align="center">
-    <img src="./images/screenshot1">
-</p>
-
-<p align="center">
-    <img src="./images/screenshot4">
-</p>
 
 ## Other Repositories
 
